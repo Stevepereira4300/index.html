@@ -1,0 +1,42 @@
+<html>
+<title>Steve's Webpage</title>
+
+<article>
+<CENTER<h1>MAKE A DIFFERENCE</h2></CENTER>
+<p>We are all gifted with a unique set of skills and abilities. With those abilities we can make extra-ordinary things happen in the world around us, or not. It is completely up to you whether you want your life to make a difference and what difference you want your life to make. Many people set lofty goals for their lives and want to be remembered as visionaries, they want to change and save the world. Others want to be remembered as the kind man or women down the street who always helped and always listened if you needed help. Who do you think is the better person? The one who changes the world or the one who saves the individual? Do what not have to do incredible things; just being there for the people around you can save someone from a meaningless life and help them lead the life they were meant to live. Small things matter Changing the life of another person is an incredible feeling and it is completely within your grasp. You can do this by deciding to become a mentor for a young ambitious person. You can help them avoid the mistakes you have made and help them learn from the ones they will inevitably make themselves. Fight for someone's rights You will often see someone get treated unfairly. It happens both professionally and socially, individuals who deserve recognition do not get it. By taking up the fight and making sure others get what they deserve and earned you will be a true hero. You will make a lasting impact on their lives and you will be rewarded with love and help in the future when you are in need. The law of karma says that whatever you do you will get back three fold, helping others is therefore a selfish act, but still a good act, one that you should do without fear, with love and with the knowledge that you will one day be rewarded. Go the distance Compromise is the enemy of long term commitment, if you have committed to helping someone by being their mentor or by fighting for their rights, doesn't stop half way. Go the distance and see it through. Make sure something happens so all your work doesn't end up as only talk. Conclusion In truth we might all be here to help each other, we might all be a part of a machine that fosters cooperation, or were not. We might just be here to make the best of the situation for ourselves. In any case, helping others brings happiness and prosperity into your own life, so for whatever reason you chose to help others, it will always help you in return. The difference between stopping half way and finishing isn't much in terms of the work you put in, but worlds apart in the difference for the individual you are helping.</p>
+
+<hr>   </hr>
+
+<p><h2>YOUR RATINGS HERE I HOPE YOU LIKED IT</h2></p>
+
+<select>
+<option value="    ">    </option>
+<option value="very good">Very Good</option>
+<option value="good">Good</option>
+<option value="okay">Okay</option>
+<option value="bad">Bad</option>
+
+
+
+<button type="button">SUBMIT</BUTTON>
+
+<hr>   </hr>
+
+
+<p><h2>COMMENT HERE</h2></p>
+
+
+
+
+<SELECT>
+<optgroup label="COMMENTS">
+<option value="    ">    </option>
+</optgroup>
+</select>
+
+<button type="button">SUBMIT</BUTTON>
+
+
+
+<img src="download.jpg"width="1300px">
+</html>
